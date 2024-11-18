@@ -3,6 +3,8 @@ Grass 2倍积分脚本！
 # 这期我们来学习 grass2x 的挂机
 
 视频分 3 部分：
+https://youtu.be/UXdFFm-Fl6o
+
 1、mac 挂机
 2、linux 挂机
 3、win 挂机
